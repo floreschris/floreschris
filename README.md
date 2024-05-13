@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola mi nombre es Christian Flores Nunton 👋
 
   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ### Acerca de mí
@@ -7,7 +7,7 @@
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
 - Disfruto trabajando con el back-end y front-end porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
   
-### Technologies
+### Tecnologias 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
