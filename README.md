@@ -1,6 +1,6 @@
 ### Hola mi nombre es Christian Flores Nunton 👋
 
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,typescript,js,wordpress&theme=light)](https://skillicons.dev)
 ### Acerca de mí
 - Tengo 21 años y soy de Lima, Peru.
 - Soy desarrollador Full Stack en Java.
