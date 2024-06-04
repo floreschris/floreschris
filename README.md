@@ -1,43 +1,63 @@
-### Hola mi nombre es Christian Flores Nunton 👋
-
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,typescript,js,wordpress&theme=light)](https://skillicons.dev)
-### Acerca de mí
-- Tengo 21 años y soy de Lima, Peru.
-- Soy desarrollador Full Stack en Java.
-- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
-- Disfruto trabajando con el back-end y front-end porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
+<div align="center">
+    <img src="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/436311414_294942903686564_5931723950363568040_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGE6xKcXEPT8sOdk47ltEwU9Q7JUo9J8sf1DslSj0nyxwvbxyRNKHIVCWJaZDNipRKXg1y4ZwiuDvDXJkHnHKgE&_nc_ohc=RMUKvFYgcpgQ7kNvgHiBXbZ&_nc_ht=scontent-lim1-1.xx&oh=00_AYBweCXXk5KEeDnVKQeqOAII6pjyZGSleifn-0DF2ji7cg&oe=66653C66" alt="flowired">
+  </div>
   
-### Tecnologias 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  <h1 align="center"> Redes Sociales: </h1>
+  
+  <div>
+    <p align="center">
+      <a href="https://www.linkedin.com/in/flowired">
+        <img src="https://img.shields.io/badge/linkedin-0e76a8?&style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="https://www.facebook.com/profile.php?id=100095125706263">
+        <img src="https://img.shields.io/badge/Facebook-3b5998?&style=for-the-badge&logo=facebook&logoColor=white">
+      </a>
+      <a href="https://www.instagram.com/florwired">
+        <img src="https://img.shields.io/badge/Instagram-rgb(228, 64, 95)?&style=for-the-badge&logo=instagram&logoColor=white">
+      </a>
+      <a href="https://www.tiktok.com/@florwired">
+        <img src="https://img.shields.io/badge/Tiktok-FE2C55?&style=for-the-badge&logo=tiktok&logoColor=white">
+      </a>
+      <a href="https://www.youtube.com/@flowired">
+        <img src="https://img.shields.io/badge/Youtube-c4302b?&style=for-the-badge&logo=youtube&logoColor=white">
+      </a>
+    </p>
+  </div>
+
+
+<h1 align="center"> Acerca de mí 🕵🏼‍♂️: </h1>
+
+- Holaaaa.... mi nombre es Christian Flores Nunton 👋
+- Tengo 21 años y soy de Lima, Peru. ☕☕
+- Soy un joven que le fascina desarrollar Full Stack en Java.📨⚙️
+- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.📚
+- Disfruto trabajando con el back-end y front-end porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.❤️⚙️
+  
+<div>
+    <h1 align="center">Mis habilidades técnicas ☕</h1>
+    <ul align="center">
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge"/>
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/CSS-073763?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge"/>
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javscript badge"/>
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/MySQL-6FA8DC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge"/>
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge"/>
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB badge"/>
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/TypeScript-16537E?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript badge"/>
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Angular-EF0D0D?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge"/>
+    </ul>
+  </div>
+
+<br/>
+
+<p align="center">
   <br/>
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  <a href="https://github.com/azurewebsites/github-readme-stats"><img alt="floreschris's Github Estadísticas" src="https://github-readme-stats.vercel.app/api/?username=floreschris&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="floreschris's Top Lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floreschris&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+</p>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/floreschris?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)  
-<!--
-**floreschris/floreschris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floreschris&label=Profile%20views&color=0e75b6&style=flat" alt="floreschris" /> </p>
 
