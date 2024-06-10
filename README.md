@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/436311414_294942903686564_5931723950363568040_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGE6xKcXEPT8sOdk47ltEwU9Q7JUo9J8sf1DslSj0nyxwvbxyRNKHIVCWJaZDNipRKXg1y4ZwiuDvDXJkHnHKgE&_nc_ohc=RMUKvFYgcpgQ7kNvgHiBXbZ&_nc_ht=scontent-lim1-1.xx&oh=00_AYBweCXXk5KEeDnVKQeqOAII6pjyZGSleifn-0DF2ji7cg&oe=66653C66" alt="flowired">
-  </div>
+![436311414_294942903686564_5931723950363568040_n](https://github.com/floreschris/floreschris/assets/97532730/3a58e28f-b294-4842-86f4-9107e4f67ddd)
+</div>
   
   <h1 align="center"> Redes Sociales: </h1>
   
