@@ -1,5 +1,7 @@
 <div align="center">
-![436311414_294942903686564_5931723950363568040_n](https://github.com/floreschris/floreschris/assets/97532730/3a58e28f-b294-4842-86f4-9107e4f67ddd)
+
+![436311414_294942903686564_5931723950363568040_n](https://github.com/floreschris/floreschris/assets/97532730/62810597-adcc-4795-ab1c-fda884b15565)
+
 </div>
   
   <h1 align="center"> Redes Sociales: </h1>
