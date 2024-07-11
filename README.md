@@ -49,6 +49,7 @@
       <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Angular-EF0D0D?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge"/>
       <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/NestJS-EA2860?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS badge"/>
       <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/OpenAI-13AA86?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI badge"/>
+      <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Postman-E75824?style=for-the-badge&logo=postman&logoColor=white" alt="Postman badge"/>
     </ul>
   </div>
 
