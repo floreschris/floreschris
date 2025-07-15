@@ -30,7 +30,7 @@
 <h1 align="center"> Acerca de mí 🕵🏼‍♂️: </h1>
 
 - Holaaaa.... mi nombre es Christian Flores Nunton 👋
-- Tengo 21 años y soy de Lima, Peru. ☕☕
+- Tengo 22 años y soy de Lima, Peru. ☕☕
 - Soy un joven que le fascina desarrollar Full Stack en Java.📨⚙️
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.📚
 - Disfruto trabajando con el back-end y front-end porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.❤️⚙️
